@@ -12,7 +12,7 @@ type CardProps = {
 };
 
 const Card: FC<CardProps> = ({
-  subtitle = "WELCOME TO GREENSHOP",
+  subtitle = "WELCOME TO GREENLAND",
   title = "LET'S MAKE A BETTER",
   buttonText = "SHOP NOW",
   description,
